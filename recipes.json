@@ -1,0 +1,68 @@
+
+[
+
+
+{
+    "name":"pizza",
+    "tags":["American"],
+    "ingredients":[
+        "pizza base",
+        "chopped onion",
+        "cheese",
+        "butter"
+    ],
+    "instructions":[
+        "test instructions 1",
+        "test instructions 2"
+        
+    ]
+},
+{
+    "name":"test recipe 1",
+    "tags":["Mexican"],
+    "ingredients":[
+        "pizza base",
+        "chopped onion",
+        "cheese",
+        "butter"
+    ],
+    "instructions":[
+        "test instructions 1",
+        "test instructions 2"
+        
+    ]
+},
+
+{
+    "name":"test recipe 2",
+    "tags":["Indian"],
+    "ingredients":[
+        "pizza base",
+        "chopped onion",
+        "cheese",
+        "butter"
+    ],
+    "instructions":[
+        "test instructions 1",
+        "test instructions 2"
+        
+    ]
+},
+
+{
+    "name":"dominos pizza",
+    "tags":["American"],
+    "ingredients":[
+        "pizza base",
+        "chopped onion",
+        "cheese",
+        "butter"
+    ],
+    "instructions":[
+        "test instructions 1",
+        "test instructions 2"
+        
+    ]
+}
+
+]
